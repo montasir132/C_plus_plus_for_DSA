@@ -13,7 +13,13 @@ int main()
     // x.push_back('h');
     // cout<<x<<endl;
     // x2.pop_back();
-    cout<<x2<<endl;
+    // cout<<x2<<endl;
 
+    // x=x2;
+    // x.assign(x2);
+    // x.erase(5,1);// erase(7,3);
+    // x.replace(6,0,"Bangladesh ");
+    // x.insert(5,"montasir");
+    cout<<x<<endl;
     return 0;
 }
