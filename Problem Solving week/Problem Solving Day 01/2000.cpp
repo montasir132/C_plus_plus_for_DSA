@@ -5,8 +5,8 @@ using namespace std;
 int main() {
 	int n;
 	cin>>n;
-	cout<<n*4<<endl;
-// 	int x=2000;
-// 	int mul=(n*x)/500;
-// 	cout<<mul;
+	int x=2000;
+	int mul=(n*x)/500;
+	cout<<mul;
+
 }
